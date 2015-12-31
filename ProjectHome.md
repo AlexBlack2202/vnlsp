@@ -1,0 +1,1 @@
+Vietnamese is my mother language, so I want to create programs can support Vietnamese in analyzing Vietnamese grammar and extracting the main ideas from web pages quickly. Beside that, they can help people search information quickly and exactly (especially items in Vietnamese).
